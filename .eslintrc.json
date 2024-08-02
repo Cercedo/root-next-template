@@ -31,6 +31,12 @@
         "newlines-between": "always",
         "alphabetize": { "order": "asc", "caseInsensitive": true }
       }
-    ]
+    ],
+    "eqeqeq": "error",
+    "no-eval": "error",
+    "curly": "error",
+    "prefer-const": "error",
+    "no-var": "error",
+    "no-console": "off"
   }
 }
