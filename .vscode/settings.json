@@ -12,5 +12,6 @@
   "prettier.configPath": ".prettierrc",
   "editor.codeActionsOnSave": {
     "source.fixAll": "always"
-  }
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
