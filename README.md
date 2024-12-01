@@ -12,7 +12,7 @@ A base template to build Next.js application.
 
 ### ❗ Prerequisites
 
-- [Node.js v20.16.0](https://nodejs.org/en)
+- [Node.js v20.18.1](https://nodejs.org/en)
 - [nvm (Node Version Manager)](https://github.com/nvm-sh/nvm)
 - [pnpm v9.6.0](https://pnpm.io/)
 
