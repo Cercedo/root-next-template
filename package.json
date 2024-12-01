@@ -12,6 +12,7 @@
     "test:watch": "vitest",
     "format": "prettier --write --ignore-unknown --config .prettierrc ./src",
     "format:check": "prettier --check --ignore-unknown --config .prettierrc ./src",
+    "type:check": "tsc --noEmit",
     "prepare": "husky",
     "precommit": "lint-staged",
     "commitlint": "commitlint --edit"
